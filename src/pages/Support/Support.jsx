@@ -1,5 +1,5 @@
 import DashboardLayout from '../../Components/DashboardLayout'
-import ContactCard from './components/Contactcard'
+import ContactCard from "./components/Contactcard";
 import SupportCard from './components/SupportCard'
 import { IoMail } from "react-icons/io5";
 import { BiSolidMessageRounded } from "react-icons/bi";
